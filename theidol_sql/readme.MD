@@ -29,7 +29,7 @@ Create a new database for the API and update the `mysqlConfig.json` file with yo
   "host": "your_database_host",
   "user": "your_database_user",
   "password": "your_database_password",
-  "database": "your_database_name"
+  "database": "idolschema"
 }
 ```
 
